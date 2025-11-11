@@ -3,7 +3,7 @@
 ## Presented in the International Symposium on Quantum Science and Engineering (IQSE 2025). Tunja, Colombia. November 10 - 14, 2025
 
 
-************************************************
+
 ## By Gustavo Patino-Alvarez
 
 School of Enginnering
