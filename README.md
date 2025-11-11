@@ -3,7 +3,7 @@
 ## Tunja, Colombia. November 10 - 14, 2025
 ## By Gustavo Patino-Alvarez
 
-School of Enginnering
+School of Engineering
 
 University of Antioquia
 
